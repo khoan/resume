@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Khoa Nguyen Resume</title>
+  <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
+  <style>
+    h1, h2, h3, h4, h5 {
+      color: black;
+    }
+
+    * {
+      color: hsl(0, 0%, 25%);
+    }
+
+    .email {
+      direction: rtl;
+      unicode-bidi: bidi-override;
+    }
+
+    .company header {
+      background-color: hsl(0, 0%, 80%);
+      color: #001b44;
+      padding: 0.5rem 0 0 0.5rem;
+    }
+
+    .company .body {
+      margin-left: 4rem;
+    }
+
+    dd {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <main class="ma4">
+    {{ .Content }}
+  </main>
+</body>
+</html>
