@@ -1,33 +1,16 @@
 # Khoa Nguyen
 
 <div id="deets">
-<a class="link dim" href="tel:+61403561212">0403 56 12 12</a>, <a class="email link dim" href="javascript:void(0)" onclick="document.location = 'mailto:'+this.innerText.split('').reverse().join('')">moc.liamtoh@neyugnaohkuuh</a><br>
-Busby, New South Wales<br>
-Australian citizen, Own transport
+  <a class="link dim" href="tel:+61403561212">0403 56 12 12</a>, <a class="email link dim" href="javascript:void(0)" onclick="document.location = 'mailto:'+this.innerText.split('').reverse().join('')">moc.liamtoh@neyugnaohkuuh</a><br>
+  Busby, New South Wales<br>
+  Australian citizen, Own transport
 </div>
 
 ## Summary
 
-Over a decade of combined working exposure in requirement analysis, designing, implementing, testing and maintaining various static websites and web applications using **Ruby**, PHP, Perl, **HTML**, **CSS**, SASS, **Javascript**, JSON, Apache, Mysql, Postgres, MongoDB, Elasticsearch, XML on a Windows XP/Vista/7 development platform; C, C++, BASH scripting, Vim, GNU utilities on a RedHat Linux development platform; and Ruby on Rails 2-5, Capistrano, Cucumber, Rspec, Apache, Passenger, Pow, NodeJS on a Mac OS  development platform.
+I'm a full stack solution provider, who can take a complex web application concept from start to finish, in a cost effective manner.
 
-
-### Highlights
-
-* Expertise in analyzing, designing, implementing, testing, and technical writing software applications
-* Sound knowledge of Rails, strongly BDD focus: Ruby, Cucumber, Rspec, Capistrano
-* Experience in Amazon Cloud Infrastructure
-* Expertise in LAMP stack web technologies & tools such as Linux, Apache, Mysql, PHP/Perl
-* Sound knowledge of MVC design pattern
-* Expertise in designing user friendly and rich Web based application
-* Expertise in querying & manipulating data with XML, JSON, CSV
-* Experience in System Reverse Engineering
-* Good Knowledge of Object Oriented Analyses & Design
-* Working Knowledge of XP, Agile Software Development Model
-* Well equipped with all aspects of Software Development Life Cycle
-* Experience in technical troubleshooting
-* Experience in performance optimization
-* Good interpersonal, and oral/written communication skills
-* Multi development platform: Linux, Mac OS, and Windows XP/Vista/7
+I love to get my hands dirty with the ongoing design improvements, and evolution of the concept to secure the best possible outcome.
 
 
 ### Academic Qualification
@@ -44,7 +27,7 @@ Framework
 : Rails 2-5, PhalconPHP, Cakephp, CGI::Application & HTML::Template
 
 Internet Technologies
-: Amazon Cloud, Restful Web Services, Ajax, CSS, HTML
+: Amazon Cloud, Restful Web Services, CSS, HTML
 
 Rapid Application Development
 : Vim, cygwin
@@ -58,7 +41,27 @@ Version Control
 Operating System
 : Linux Redhat Enterprise, Windows XP/Vista/7, Mac OS
 
+Design
+: Keynote, pen and paper, whiteboard
+
 ### Professional Experience
+
+<div class="company">
+  <header>Managed App</header>
+  <div class="body">
+    Location: Surry Hills, NSW<br>
+    Position: Web Developer<br>
+    Duration: November 2019 to present
+  </div>
+</div>
+
+#### Responsibilities:
+
+Developing and maintaining a property management platform for hundreds of agencies across Australia.
+
+#### Technologies:
+
+Key techstack: React-Redux front end pulling data from Rails API in Docker container.
 
 <div class="company">
   <header>Issue Pty. Ltd.</header>
