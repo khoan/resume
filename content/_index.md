@@ -57,11 +57,11 @@ Design
 
 #### Responsibilities:
 
-Developing and maintaining a property management platform for hundreds of agencies across Australia.
+As part of the dev team, I develop and maintain the property management platform for hundreds of agencies across Australia, and assist the operational support team with technical challenges.
 
 #### Technologies:
 
-Key techstack: React-Redux front end pulling data from Rails API in Docker container.
+Key tech stack: React-Redux front end pulling data from Rails API, hosted in Docker container, orchestrated by Kubernetes.
 
 <div class="company">
   <header>Issue Pty. Ltd.</header>
