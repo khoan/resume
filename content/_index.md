@@ -8,7 +8,7 @@
 
 ## Summary
 
-I'm a full stack solution provider, who can take a complex web application concept from start to finish, in a cost effective manner.
+I'm a full stack solution provider, who can manifest a concept into a web application, in a cost effective manner.
 
 I love to get my hands dirty with the ongoing design improvements, and evolution of the concept to secure the best possible outcome.
 
