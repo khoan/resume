@@ -383,7 +383,6 @@ I used the following tools & technologies during my course of duties:
 ### Hobby
 
 * sharing time with daughter and pet dog
-* enjoying table tennis as a player and coach
 * studying LaRouche Physical Economy
 
 ### References
