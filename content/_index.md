@@ -55,9 +55,13 @@ Design
   </div>
 </div>
 
+ManagedApp is a property management platform. A feature, of ManagedApp, is processing, and scheduling, rent and bill payments.  Thus, the platform eliminates trust accounts, and, in tandem, the labor-intensive and error-prone reconcilation process.
+
+Also, report generation, and supporting various workflows and associated communications between stakeholders, is another part of the app.
+
 #### Responsibilities:
 
-As part of the dev team, I develop and maintain the property management platform for hundreds of agencies across Australia, and assist the operational support team with technical challenges.
+As part of the dev team, I develop and maintain the platform for hundreds of agencies across Australia, and assist the operational support team with technical challenges.
 
 #### Technologies:
 
@@ -71,6 +75,8 @@ Key tech stack: React-Redux front end pulling data from Rails API, hosted in Doc
     Duration: January 2012 to September 2019
   </div>
 </div>
+
+IssueApp is a platform to create, publish, and distribute dynamic, interactive, bite-sized magazines. Some notable commercial partnerships are Mondelēz and Fairfax.
 
 #### Responsibilities:
 
@@ -89,9 +95,12 @@ Some key tech. used were Elasticsearch 1 & 2, MongoDB, Memcached, Redis, Rails 4
   </div>
 </div>
 
+I helped a group of doctors, from St George Hospital Cancer Care Centre, to digitize complex paper forms. Patients&rsquo; anonymized data is collected and stored electronically, which can be exported, for further analysis, by statistical softwares.
+
 #### Responsibilities:
 
-I helped a group of doctors from St George Hospital Cancer Care Centre to digitize complex paper forms. Patients' data is collected and stored electronically that can be exported for further analysis by statistical softwares. My responsibility ranges from requirement analysis, software design, database design, storage design, implementation, deployment, and testing.
+I am responsible for requirement analysis, software design, database design, storage design, implementation, deployment, and testing.
+
 
 #### Technologies:
 
