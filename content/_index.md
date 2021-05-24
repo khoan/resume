@@ -51,7 +51,7 @@ Design
   <div class="body">
     Location: Surry Hills, NSW<br>
     Position: Web Developer<br>
-    Duration: November 2019 to present
+    Duration: November 2019 to February 2021
   </div>
 </div>
 
