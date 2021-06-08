@@ -47,6 +47,23 @@ Design
 ### Professional Experience
 
 <div class="company">
+  <header>Hivetec</header>
+  <div class="body">
+    Location: The Rocks, NSW<br>
+    Position: Senior Software Developer<br>
+    Duration: February 2021 to Present
+  </div>
+</div>
+
+#### Responsibilities:
+
+Maintain and extend a Rails citadel CRM, that is over a decade of age, and its peripheries of micro Elixir services.
+
+#### Technologies:
+
+Key tech: MySQL 5, Rails 6.0, Typescript, Sass, Elixir running on self hosted infrastructure orchestrated by Kubernetes.
+
+<div class="company">
   <header>Managed App</header>
   <div class="body">
     Location: Surry Hills, NSW<br>
